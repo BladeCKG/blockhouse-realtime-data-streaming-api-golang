@@ -6,6 +6,7 @@ require (
 	github.com/confluentinc/confluent-kafka-go v1.9.2
 	github.com/gin-gonic/gin v1.10.0
 	github.com/google/uuid v1.3.0
+	github.com/joho/godotenv v1.5.1
 )
 
 require gopkg.in/cenkalti/backoff.v1 v1.1.0 // indirect
